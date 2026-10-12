@@ -1,6 +1,6 @@
 interface:
   display_name: 青绿诗境·东方幻想绘景
-  short_description: 从十三张原创示例图提炼青绿山水、工笔花鸟与田园诗境，生成统一风格的插画及视频关键帧
+  short_description: 从十二张原创示例图提炼青绿山水、工笔花鸟与田园诗境，生成统一风格的插画及视频关键帧
   default_prompt: 使用 $create-qinglv-poetic-worlds，为我创作一张16:9的青绿东方诗境插画：一叶小舟驶过柳树与白色花树环绕的山水。
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg

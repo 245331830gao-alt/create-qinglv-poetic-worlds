@@ -15,9 +15,9 @@
 
 ## 示例
 
-![十三张原创青绿诗境示例总览](assets/reference-board.jpg)
+![十二张原创青绿诗境示例总览](assets/reference-board.jpg)
 
-仓库内的 13 张参考图均为该 Skill 的生成作品，并经作者授权公开；不包含最初用于研究风格的第三方图片。
+仓库内的 12 张参考图均为该 Skill 的生成作品，并经作者授权公开；不包含最初用于研究风格的第三方图片。
 
 ## 安装
 
@@ -59,7 +59,7 @@ create-qinglv-poetic-worlds/
 │   ├── icon.svg
 │   ├── reference-board.jpg
 │   └── references/
-│       └── 01.png ... 13.png
+│       └── 01.png ... 12.png
 └── references/
     ├── prompt-recipes.md
     ├── reference-index.md
